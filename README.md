@@ -30,5 +30,9 @@ Dashboard Development
 Python
 Power BI
 
+## Dashboard
+
+![ab_testing_page-0001](https://github.com/leosantanaoliva/A-B-Testing-Report-Dashboard/assets/74313125/bc663eee-c8a0-421b-a5d0-1955dc7c10c4)
+
 Reference
 https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data 
