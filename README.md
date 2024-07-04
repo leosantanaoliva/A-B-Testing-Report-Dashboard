@@ -21,18 +21,18 @@ most ads hour: Hour of day that the person saw the biggest amount of ads
 
 ## Project Structure:
 
-Data Extraction
-Data Cleaning
-Exploratory Data Analysis
-Dashboard Development
+- Data Extraction
+- Data Cleaning
+- Exploratory Data Analysis
+- Dashboard Development
 
 ## Tools used:
-Python
-Power BI
+- Python
+- Power BI
 
 ## Dashboard
 
 ![ab_testing_page-0001](https://github.com/leosantanaoliva/A-B-Testing-Report-Dashboard/assets/74313125/bc663eee-c8a0-421b-a5d0-1955dc7c10c4)
 
-Reference
+## References
 https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data 
