@@ -4,7 +4,7 @@ The project goals is to Support the company next decision by enhancing the visib
 
 ## Dataset:
 
-This Dataset is about a Markting comapniy running ad caimpagns, so since the maket might seem complex, so they chosed to run a A/B Test in order to measure how successful the makergin campaign has been. 
+This Dataset is about a Markting comapniy running ad caimpagns, so since the maket might seem complex, so they chosed to run a A/B Test in order to measure how successful the marketing campaign has been. 
 
 The companies are interested in answering two questions:
 Would the campaign be successful?
