@@ -1,21 +1,19 @@
 # A-B-Testing-Report-Dashboard
 
-The project goals is to Support the company next decision by enhancing the visibility of the A/B Testing.
-
+The project goal is to support the company’s next decision by enhancing the visibility of A/B Testing.
 ## Dataset:
 
-This Dataset is about a Markting comapniy running ad caimpagns, so since the maket might seem complex, so they chosed to run a A/B Test in order to measure how successful the marketing campaign has been. 
+This dataset concerns a marketing campaign involving ads. Since the market might seem complex, the company chose to run an A/B test to measure how successful the marketing campaign has been. 
 
 The companies are interested in answering two questions:
 Would the campaign be successful?
 If the campaign was successful, how much of that success could be attributed to the ads?
 
-In order to create such test it was segmented people into two groups, one will see the ads and the second one will see the public service advertisment
-
+To create this test, people were segmented into two groups: one group saw the ads, and the other saw the public service announcement.
 ### Dataset Structure:
 
 - Index: Row index
-- user id: User ID (unique)
+- User id: User ID (unique)
 - test group: If "ad" the person saw the advertisement, if "psa" they only saw the public service announcement
 - converted: If a person bought the product then True, else is False
 - total ads: Amount of ads seen by person
